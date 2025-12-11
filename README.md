@@ -12,4 +12,4 @@ Stage 5: Modular driver libraries
 Stage 6: Documentation + testing  
 Stage 7: Bare-metal register research
 
-Nucleo Board Data Sheet: file:///C:/Users/Gamer/STM32Cube/Repository/DB2196.pdf
+STM32F401 Data Sheet: https://www.st.com/resource/en/datasheet/stm32f401re.pdf
