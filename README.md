@@ -11,3 +11,5 @@ Stage 4: UART driver + CLI
 Stage 5: Modular driver libraries  
 Stage 6: Documentation + testing  
 Stage 7: Bare-metal register research
+
+Nucleo Board Data Sheet: file:///C:/Users/Gamer/STM32Cube/Repository/DB2196.pdf
